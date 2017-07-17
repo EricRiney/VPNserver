@@ -1,0 +1,19 @@
+{
+  "name": "vpnserver",
+  "version": "1.0.0",
+  "description": "lil server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricRiney/VPNserver.git"
+  },
+  "author": "Eric Riner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricRiney/VPNserver/issues"
+  },
+  "homepage": "https://github.com/EricRiney/VPNserver#readme"
+}
