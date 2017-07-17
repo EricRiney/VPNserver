@@ -1,2 +1,2 @@
 # VPNserver
-fml
+fml ssh vpntest
